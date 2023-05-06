@@ -25,6 +25,7 @@ class Mage : public Character
         {
             cout << "The enemy lost 15 hp from a fireball" << endl;
         }
+        void Reload(){}
 };
 
 class Dogge : public Character
@@ -34,6 +35,7 @@ class Dogge : public Character
         {
             cout << "The enemy lost 9999999999 hp from the Dogge's bark" << endl;
         }
+        void Reload(){}
 };
 
 class CbState
@@ -150,5 +152,7 @@ int main()
     player->Attack();
     player->Attack();
     player->Reload();
+    player->Reload();
+    player->Attack();
     return 0;
 }

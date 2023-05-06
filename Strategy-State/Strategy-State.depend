@@ -1,4 +1,19 @@
 # depslib dependency file v1.0
-1683332703 source:c:\users\grats\desktop\Учебные материалы\2 курс\Компьютерная практика\2 семестр\strategy-state\strategy-state\main.cpp
+1683336255 source:c:\users\grats\desktop\Учебные материалы\2 курс\Компьютерная практика\2 семестр\strategy-state\strategy-state\main.cpp
 	<iostream>
+
+1683335412 c:\users\grats\desktop\Учебные материалы\2 курс\Компьютерная практика\2 семестр\strategy-state\strategy-state\include\player.h
+	"Characters.h"
+
+1683335270 c:\users\grats\desktop\Учебные материалы\2 курс\Компьютерная практика\2 семестр\strategy-state\strategy-state\include\characters.h
+	"States.h"
+
+1683335274 c:\users\grats\desktop\Учебные материалы\2 курс\Компьютерная практика\2 семестр\strategy-state\strategy-state\include\states.h
+
+1683335459 source:c:\users\grats\desktop\Учебные материалы\2 курс\Компьютерная практика\2 семестр\strategy-state\strategy-state\src\characters.cpp
+	<iostream>
+	"Characters.h"
+
+1683335420 source:c:\users\grats\desktop\Учебные материалы\2 курс\Компьютерная практика\2 семестр\strategy-state\strategy-state\src\player.cpp
+	"Player.h"
 
