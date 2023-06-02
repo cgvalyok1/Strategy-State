@@ -34,7 +34,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="character.cpp" />
+		<Unit filename="character.h" />
+		<Unit filename="crossbow.cpp" />
+		<Unit filename="crossbow.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="player.cpp" />
+		<Unit filename="player.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
